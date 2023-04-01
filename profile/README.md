@@ -1,5 +1,5 @@
 # Welcome to the APAC Copilot Workshop
 
-This GitHub organisation has been created for use in our GitHub Copilot workshop scheduled for 30th March 2023.
+This GitHub organisation has been created to collaborate on our GitHub Copilot workshop content.
 
 If you have any questions about this org, please reach out to @anthonyborton
